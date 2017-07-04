@@ -19,12 +19,7 @@ var education = {
 			"degree": ["Baccalaureat"],
 			"dates": "2008 - 2011"
 		},
-		{
-			"name": "University of Dijon, IUT SRC",
-			"location": "Dijon",
-			"degree": ["License", "DUT"],
-			"dates": "2011 - 2014"
-		},
+		
 		{
 			"name": "One Year Internship DUETI",
 			"location": "Bangkok",
